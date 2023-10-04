@@ -7,15 +7,15 @@ The keyboard display is controlled by signals, which are additionally responsibl
 
 The application was developed under Linux, there may be problems when running under Win or macOS.
 
-![fig1](images/fig_1.png)\\
+![fig1](images/fig_1.png)\
 
 *Figure 1. Example of virtual keyboard.*
 
-![fig2](images/fig_2.png)\\
+![fig2](images/fig_2.png)\
 
 *Figure 2. Example of the virtual keyboard in numeric mode.*
 
-![fig3](images/fig_3.png)\\
+![fig3](images/fig_3.png)\
 
 *Figure 3. Hidden virtual keyboard.*
 
