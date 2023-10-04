@@ -5,7 +5,10 @@ This simple application is an example of how to dock a virtual keyboard in a des
 
 The keyboard display is controlled by signals, which are additionally responsible for the animation of the window in which the virtual keyboard is positioned. Also included is the ability to switch the keyboard from regular mode to numeric keypad mode using the appropriate flags.
 
-The application was developed under Linux, there may be problems when running under Win or macOS.
+The application was developed under Linux, there may be problems when running under Win or macOS. By default, the application should be run through the terminal.
+
+
+
 
 ![fig1](images/fig_1.png)
 
