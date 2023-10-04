@@ -7,7 +7,9 @@ The keyboard display is controlled by signals, which are additionally responsibl
 
 The application was developed under Linux, there may be problems when running under Win or macOS. By default, the application should be run through the terminal.
 
-
+Env:
+- python: 3.9.0
+- PySide2: 5.15.2.1
 
 
 ![fig1](images/fig_1.png)
