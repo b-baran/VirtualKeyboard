@@ -1,7 +1,7 @@
 # VirtualKeyboard
 PySide2, PyQt5 - Simple Virtual Keyboard Handler
 
-This simple application is an example of how to dock a virtual keyboard in a desktop application. The main idea is to create a virtual keyboard as a QWiget using a QML file and QQuickWidget Class. Then dock it in a single QFrame.
+This simple application is an example of how to dock a virtual keyboard in a desktop application. TThe main idea is to create a virtual keyboard as a QWidget using a QML file and the QQuickWidget class. Then dock it in a single QFrame.
 
 The keyboard display is controlled by signals, which are additionally responsible for the animation of the window in which the virtual keyboard is positioned. Also included is the ability to switch the keyboard from regular mode to numeric keypad mode using the appropriate flags.
 
