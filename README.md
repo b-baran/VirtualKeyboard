@@ -5,11 +5,6 @@ This simple application is an example of how to dock a virtual keyboard in a des
 
 The keyboard display is controlled by signals, which are additionally responsible for the animation of the window in which the virtual keyboard is positioned. Also included is the ability to switch the keyboard from regular mode to numeric keypad mode using the appropriate flags.
 
-\begin{figure}[htbp]
-\centering
-\includegraphics{images/fig_1.png}
-\caption{Alt text}
-\end{figure}
-
+![This is the caption\label{mylabel}](images/fig_1.png)
 
 
