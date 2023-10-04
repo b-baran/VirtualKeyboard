@@ -7,3 +7,13 @@ The keyboard display is controlled by signals, which are additionally responsibl
 
 ![fig1](images/fig_1.png)
 
+
+
+![fig2](images/fig_2.png)
+
+
+
+
+![fig3](images/fig_3.png)
+
+
